@@ -14,7 +14,7 @@ Musifay is a simple, responsive web-based music player that lets you play your f
 - **Responsive Design**: The UI adapts to different screen sizes, providing a great experience on both desktop and mobile devices.
 
 ## Demo 🎬
-Check out a live demo [here](#).
+Check out a live demo https://musify-js.netlify.app/ .
 
 ## Screenshots 📸
 
