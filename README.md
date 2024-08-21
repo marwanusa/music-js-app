@@ -2,6 +2,8 @@
 ## Musifay - Simple Music Player 🎵
 Musifay is a simple, responsive web-based music player that lets you play your favorite songs right from your browser. It features song selection, playback controls, and progress tracking—all wrapped in a minimalist UI.
 
+**Note:** This project is a training exercise designed to practice and improve web development skills. It showcases basic functionalities of a music player and aims to demonstrate fundamental concepts in front-end development.
+
 ## Features ✨
 - **Play/Pause**: Start or pause the current song with ease.
 - **Next/Previous**: Seamlessly skip to the next or previous song in the playlist.
